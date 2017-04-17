@@ -2,7 +2,9 @@
 
 > Prism.js syntax highlighter for Vue.js
 
-## Usage
+## Usage and Demo
 
-Main file:
+
+Go to http://vue-prism.netlify.com/
+
 
