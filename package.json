@@ -1,7 +1,7 @@
 {
   "name": "vue-prism",
   "description": "Highlight code with Vue.js and Prism.js",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "author": "Ruslan Elisha <creotip@gmail.com>",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
